@@ -1,0 +1,22 @@
+{
+  "name": "best_community_service",
+  "version": "1.0.0",
+  "description": "Final Project SER416",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Worrell",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "flightplan": "^0.6.17",
+    "jade": "*",
+    "nodemailer": "*",
+    "production": "0.0.2"
+  },
+  "devDependencies": {
+    "fly": "^2.0.6"
+  }
+}
